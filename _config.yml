@@ -1,5 +1,6 @@
-layout_spectrum: 0.45303237091307297
 typography_spectrum: 0.981828194556684
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#010101'
@@ -11,11 +12,11 @@ color:
   lightness: 0.6009682181609407
   saturation: 0.10299366610355233
   rhythmicContrast: 0.4432093881486482
-content_rating:
-  adult: false
+github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.45303237091307297
 author:
   name: Joao Oliveira
   url: ''
@@ -23,6 +24,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93bbf7b-9f36-4bf3-bea2-a6d605483bdc.jpg
 name: Olive Computations
+url: 'http://olivecomputations.com'
 navigation:
   - name: Your Money Aggregator
     url: >-
@@ -31,9 +33,13 @@ navigation:
   - name: Online Shopping Aggregator
     id: 15ab9a07-c121-4bc4-80ac-159dd54b055f
     type: content
+  - name: Text
+    id: 458ccb47-5924-498d-8bd1-ec7193cec836
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbe698a-3471-4e8e-b746-338e52d6326c.jpg
 title: Olive Computations
+content: []
 description: Reactive & Scalable Software
 purpose:
   - type: internal
@@ -42,6 +48,3 @@ purpose:
   - type: contact
     url: 'mailto:joao@nicolauoliveira.com'
     label: Contact me
-content: []
-url: 'http://olivecomputations.com'
-github: true
