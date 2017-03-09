@@ -26,15 +26,15 @@ logo: >-
 name: Olive Computations
 url: 'http://olivecomputations.com'
 navigation:
+  - name: Text
+    id: 458ccb47-5924-498d-8bd1-ec7193cec836
+    type: content
   - name: Your Money Aggregator
     url: >-
       https://chrome.google.com/webstore/detail/your-money-aggregator/pkhbgealgppobjjkeahfgknimjonelkn?hl=en
     type: external
   - name: Online Shopping Aggregator
     id: 15ab9a07-c121-4bc4-80ac-159dd54b055f
-    type: content
-  - name: Text
-    id: 458ccb47-5924-498d-8bd1-ec7193cec836
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbe698a-3471-4e8e-b746-338e52d6326c.jpg
