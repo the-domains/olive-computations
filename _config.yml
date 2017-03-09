@@ -1,21 +1,21 @@
-typography_spectrum: 0.1207850924693048
-content_rating:
-  adult: false
+layout_spectrum: 0.5441808617384275
+typography_spectrum: 0.4246220310193735
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.7857657663989812
-  lightness: 0.12992860237136483
-  saturation: 0.828632372431457
-  rhythmicContrast: 0.2083148539531976
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.7386090341556153
+  lightness: 0.41617632241735214
+  saturation: 0.11499338647212354
+  rhythmicContrast: 0.8989453672367784
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.8828268137294799
 author:
   name: Joao Oliveira
   url: ''
