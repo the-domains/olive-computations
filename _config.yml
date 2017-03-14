@@ -66,6 +66,6 @@ purpose:
   - type: internal
     label: Online Shopping Aggregator
     item: 15ab9a07-c121-4bc4-80ac-159dd54b055f
-  - type: contact
-    url: 'mailto:joao@nicolauoliveira.com'
-    label: Contact me
+  - type: external
+    url: 'https://www.linkedin.com/in/jnicolau/'
+    label: LinkedIn
