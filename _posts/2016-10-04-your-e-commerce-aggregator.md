@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-14T20:42:23.996Z'
+datePublished: '2017-03-14T20:43:45.697Z'
 sourcePath: _posts/2016-10-04-your-e-commerce-aggregator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-14T20:42:23.021Z'
+dateModified: '2017-03-14T20:43:44.993Z'
 title: Online Shopping Aggregator
 publisher: {}
 description: >-
@@ -50,4 +50,4 @@ The Aggregator searches simultaneously for multiple products in multiple stores.
 
 Then it uses powerful filters and reads your orders history to bring to the top the kind of products that suits to your specific needs or lifestyle.
 
-After finding what you want it allows you to easily add it to the shopping cart of the store where the product belongs. When you want to do the checkout it won't ask you for any payment. It redirects you to the website of the store, where you'll see your cart full and ready to go, and you just take it from there. So no credit card is ever requested from you.
+After finding what you want it allows you to easily add it to the shopping cart of the store where the product belongs. When you want to do the checkout it won't ask you for any payment. It redirects you to the website of the store, where you'll see your cart full and ready to go, and you just take it from there. So we never request you credit card.
