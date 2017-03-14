@@ -63,9 +63,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Reactive & Scalable Software
 purpose:
-  - type: internal
-    label: Online Shopping Aggregator
-    item: 15ab9a07-c121-4bc4-80ac-159dd54b055f
+  - type: email
+    label: Contact me
+    url: 'mailto:joao@nicolauoliveira.com'
   - type: email
     url: 'mailto:joao@nicolauoliveira.com'
     label: Contact me
