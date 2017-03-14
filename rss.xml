@@ -4,9 +4,9 @@
         <description><![CDATA[Olive Computations]]></description>
         <link>http://olivecomputations.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Mar 2017 19:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2017 19:20:09 GMT</lastBuildDate>
         <atom:link href="http://olivecomputations.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Mar 2017 19:16:39 GMT</pubDate>
+        <pubDate>Tue, 14 Mar 2017 19:20:07 GMT</pubDate>
         <item>
             <title><![CDATA[Online Shopping Aggregator]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4deec11b-9272-4389-a30e-8631d1c5ac81.png">,<h1>Online Shopping Aggregator</h1>,<p>The making of <strong>Online Shopping Aggregator</strong> just started. It’s a platform that will target busy online shoppers that wold like to take the make the most of their time.</p>]]></description>
@@ -23,10 +23,10 @@
         </item>
         <item>
             <title><![CDATA[Domain-Driven Design]]></title>
-            <description><![CDATA[<p>How do you translate business into code?</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F21488644&url=https%3A%2F%2Fvimeo.com%2F21488644&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F138256737_640.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>This was the first time I gave a lecture on Eric Evan’s book <em>Domain-Driven Design - Tackling Complexity in The Heart of Software.</em> It was back in 2011 and concepts suck as Microservices and CQRS were not very popular yet. Nevertheless I managed to put some material together and make sense of it and even answer some “more advanced” questions on the matter. Sorry that the lecture in Portuguese language. If you have any questions drop me an email and I’ll answer.</p>]]></description>
+            <description><![CDATA[<p>How do you translate business into code?</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F21488644&url=https%3A%2F%2Fvimeo.com%2F21488644&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F138256737_640.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://vimeo.com/21488644</link>
             <guid isPermaLink="false">6d692b50-dc18-48f6-984b-2c1f79d20005</guid>
-            <pubDate>Tue, 14 Mar 2017 19:14:12 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2017 19:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
