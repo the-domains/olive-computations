@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-14T20:29:20.040Z'
+datePublished: '2017-03-14T20:39:53.064Z'
 sourcePath: _posts/2016-10-04-your-e-commerce-aggregator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-14T20:29:19.233Z'
+dateModified: '2017-03-14T20:39:52.396Z'
 title: Online Shopping Aggregator
 publisher: {}
 description: >-
@@ -35,20 +35,19 @@ So I've decided to create a new online service that basically turns your browser
 
 The service will support you, exploring many options that are already available online but difficult to navigate and compare with each other: prices, products, suppliers, orders history.
 
-By using this information you can:
+By using this approach you can also:
 
-* Bring it all together in realtime
+* Bring it all together in realtime using a searching model that reacts immediately to changes in scope or criteria
 * Teach the system on preferences and filters 
-* Teach the system about which products are equivalents
-* Know when things are getting cheaper
-* Compare different prices
-* Learn about more about other suppliers
+* Teach the system about products that should be treated as equivalents
+* Know when relevant products just got cheaper or more expensive 
+* Learn more about other suppliers or product alternatives
 * Predict recurring orders based on your history
 
 Now, a little bit more about these features.
 
-The Aggregator searches simultaneously for multiple products in multiple stores. It does that in a very reactive way. After triggering your search you can continue narrowing or widening the search criteria or scope in real time, while getting more and more results. All data is returned in realtime.
+The Aggregator searches simultaneously for multiple products in multiple stores. It does it in a very reactive way. After triggering your search you can continue narrowing or widening the search criteria or scope in realtime and the results will react accordingly. All data is returned dynamically as you go.
 
 Then it uses powerful filters and reads your orders history to bring to the top the kind of products that suits to your specific needs or lifestyle.
 
-After finding what you want it allows you to easily add it to the shopping cart of the store where the product belongs. When you want to do the checkout it won't ask you for any payment. It redirects you directly to the website of store and you can take from there as usual. So no credit card is ever requested from you.
+After finding what you want it allows you to easily add it to the shopping cart of the store where the product belongs. When you want to do the checkout it won't ask you for any payment. It redirects you directly to the website of store, where you'll see your cart already ready to go and you can take it from there. So no credit card is ever requested from you.
