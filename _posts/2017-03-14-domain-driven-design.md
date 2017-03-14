@@ -40,13 +40,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/21488644'
 title: Domain-Driven Design
-datePublished: '2017-03-14T19:20:07.329Z'
-dateModified: '2017-03-14T19:20:06.626Z'
+datePublished: '2017-03-14T19:21:07.598Z'
+dateModified: '2017-03-14T19:21:07.079Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-03-14-domain-driven-design.md
 starred: false
 datePublishedOriginal: '2017-03-14T19:20:05.456Z'
-sourcePath: _posts/2017-03-14-domain-driven-design.md
 _type: VideoObject
 _context: 'http://schema.org'
 
