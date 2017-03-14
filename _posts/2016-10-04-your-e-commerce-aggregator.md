@@ -1,17 +1,20 @@
 ---
-datePublished: '2017-03-14T19:16:38.130Z'
+datePublished: '2017-03-14T20:14:53.463Z'
 sourcePath: _posts/2016-10-04-your-e-commerce-aggregator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-14T19:16:37.674Z'
+dateModified: '2017-03-14T20:14:52.984Z'
 title: Online Shopping Aggregator
 publisher: {}
 description: >-
   The making of Online Shopping Aggregator just started. It’s a platform that
-  will target busy online shoppers that wold like to take the make the most of
-  their time.
+  will target busy online shoppers that would like to waste less time
+  discovering and ordering products online. I’ve broken down the process of
+  online shopping and found many optimizations that could be on any store
+  online. The Online Shopping Aggregator won’t change existing stores but it
+  will offer new features on the top of stores that already exist.  
 starred: true
 datePublishedOriginal: '2016-10-05T20:11:36.407Z'
 url: your-e-commerce-aggregator/index.html
@@ -22,33 +25,32 @@ _type: Article
 
 # Online Shopping Aggregator
 
-The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that wold like to take the make the most of their time.
+The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that would like to waste less time discovering and ordering products online. I've broken down the process of online shopping and found many optimizations that could be on any store online. The Online Shopping Aggregator won't change existing stores but it will offer new features on the top of stores that already exist. 
 
-Almost everything can now be ordered online but for many online shoppers it gets very time consuming to do it properly: searching back and forth multiple products and offers, getting to know the best suppliers for the kind of products they need and making sure that they never run out of supplies. And the cherry on the top pf the cake: the web is infested with clutter and spam that only makes the shopping experience slower and misleading.
+---
 
-So I've decided to make the browser more clever and expand it to an assistant for online shopping, so that you can train it with your own lifestyle rules and filters, and in return it will bring you quick access to:
+Almost everything can now be ordered online but for many online shoppers it gets very time consuming to do it properly: searching back and forth between multiple web sites and offers, getting to know the best suppliers for the kind of products they need and making sure not to run out of supplies can be daunting. 
 
-* Price discovery
-* Product discovery
-* Supplier discovery
-* History discovery
+So I've decided to create a new online service that basically turns your browser into an advanced online shopping assistant. I want you harness the power that usually resides in giants like Amazon but give it to you in a way that is all under your control. No adware or spam. And you can train it according to your own lifestyle's rules and filters. Anytime you want you can modify or even delete all personal data and eliminate your digital footprint forever if you want to. I don't even want to know what is your name, sex or age... an email address is all you need to create an account. Nevertheless, if you want to improve your experience you can volunteer some details about what is that you are looking for. By doing that you'll bend the assistant to your needs. 
+
+The service will support you, exploring many options that are already available online but difficult to navigate and compare with each other:
+
+* Prices
+* Products
+* Suppliers
+* Previous orders
 
 Then you can act on this information to:
 
-* Compare products and prices
-* Learn about more suitable suppliers
+* Know when things are getting cheaper
+* Compare different options
+* Learn about more about other suppliers
 * Predict recurring orders based on your history
 
 Now, a little bit more about these features.
 
-The Aggregator searches simultaneously for multiple products in multiple stores. It does that in a very reactive/dynamic way while you continue working so that no time is wasted waiting for the results, and all data is returned in real-time.
+The Aggregator searches simultaneously for multiple products in multiple stores. It does that in a very reactive way. After triggering your search you can continue narrowing or widening the search criteria or scope in real time, while getting more and more results. All data is returned in realtime.
 
-Then it uses powerful filters and your orders history to help you find the kind of product that suits to your specific needs or lifestyle. Ex: Organic Food in Tesco and Organic Supermarket.
+Then it uses powerful filters and reads your orders history to bring to the top the kind of products that suits to your specific needs or lifestyle.
 
-It allows you to easily add/remove items from the store's shopping cart and once you decide to submit your order(s) it redirects you to their website for a proper checkout. So no credit card is ever requested from you.
-
-## Technology Wise
-
-I'll use again the same concept of "Browser-As-A-Service", as I did for [Your Money Aggregator][0], to provide the best possible online shopping experience. Your browser gets enhanced, it gets to know how to interact fast and efficiently with all those online stores and it is fully reactive so that you get to see the result of your actions immediately.
-
-[0]: https://chrome.google.com/webstore/detail/your-money-aggregator/pkhbgealgppobjjkeahfgknimjonelkn?hl=en
+After finding what you want it allows you to easily add it to the shopping cart of the store where the product belongs. When you want to do the checkout it won't ask you for any payment. It redirects you directly to the website of store and you can take from there as usual. So no credit card is ever requested from you.
