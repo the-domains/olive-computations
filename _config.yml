@@ -66,6 +66,6 @@ purpose:
   - type: email
     label: Contact me
     url: 'mailto:joao@nicolauoliveira.com'
-  - type: email
-    url: 'mailto:joao@nicolauoliveira.com'
-    label: Contact me
+  - type: external
+    url: 'https://www.linkedin.com/in/jnicolau/'
+    label: Connect with me on LinkedIn
