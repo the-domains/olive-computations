@@ -66,6 +66,6 @@ purpose:
   - type: external
     label: Connect with me on LinkedIn
     url: 'https://www.linkedin.com/in/jnicolau/'
-  - type: external
-    url: 'https://www.linkedin.com/in/jnicolau/'
-    label: Connect with me on LinkedIn
+  - type: email
+    url: 'mailto:joao@nicolauoliveira.com'
+    label: Contact me
