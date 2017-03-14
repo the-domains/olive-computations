@@ -19,7 +19,7 @@ opengraph:
 layout_spectrum: 0.45303237091307297
 author:
   name: Joao Oliveira
-  url: ''
+  url: 'https://www.linkedin.com/in/jnicolau/'
   email: joao@nicolauoliveira.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93bbf7b-9f36-4bf3-bea2-a6d605483bdc.jpg
@@ -57,7 +57,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
