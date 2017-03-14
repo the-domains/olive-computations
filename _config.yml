@@ -63,9 +63,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Reactive & Scalable Software
 purpose:
-  - type: email
-    label: Contact me
-    url: 'mailto:joao@nicolauoliveira.com'
+  - type: external
+    label: Connect with me on LinkedIn
+    url: 'https://www.linkedin.com/in/jnicolau/'
   - type: external
     url: 'https://www.linkedin.com/in/jnicolau/'
     label: Connect with me on LinkedIn
