@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-14T19:16:38.131Z'
+datePublished: '2017-03-14T20:59:58.351Z'
 sourcePath: _posts/2016-10-03-spark2start-dublin-business-innovation-centre.md
 inFeed: true
 isBasedOnUrl: 'http://dublinbic.ie/events/spark2start/'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-03-14T19:16:37.674Z'
+dateModified: '2017-03-14T20:59:58.202Z'
 title: Spark2Start - Dublin Business Innovation Centre
 app_links: []
 publisher:
