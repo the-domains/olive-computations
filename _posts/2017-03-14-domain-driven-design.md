@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/21488644'
 title: How do you translate business into code?
-datePublished: '2017-03-14T19:23:09.641Z'
-dateModified: '2017-03-14T19:23:09.166Z'
+datePublished: '2017-03-14T21:16:05.660Z'
+dateModified: '2017-03-14T21:16:05.550Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-14-domain-driven-design.md
