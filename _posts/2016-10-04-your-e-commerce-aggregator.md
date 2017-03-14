@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-14T20:14:53.463Z'
+datePublished: '2017-03-14T20:29:20.040Z'
 sourcePath: _posts/2016-10-04-your-e-commerce-aggregator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-14T20:14:52.984Z'
+dateModified: '2017-03-14T20:29:19.233Z'
 title: Online Shopping Aggregator
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   discovering and ordering products online. I’ve broken down the process of
   online shopping and found many optimizations that could be on any store
   online. The Online Shopping Aggregator won’t change existing stores but it
-  will offer new features on the top of stores that already exist.  
+  will offer new features on the top of stores that already exist.
 starred: true
 datePublishedOriginal: '2016-10-05T20:11:36.407Z'
 url: your-e-commerce-aggregator/index.html
@@ -25,25 +25,23 @@ _type: Article
 
 # Online Shopping Aggregator
 
-The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that would like to waste less time discovering and ordering products online. I've broken down the process of online shopping and found many optimizations that could be on any store online. The Online Shopping Aggregator won't change existing stores but it will offer new features on the top of stores that already exist. 
+The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that would like to waste less time discovering and ordering products online. I've broken down the process of online shopping and found many optimizations that could be on any store online. The Online Shopping Aggregator won't change existing stores but it will offer new features on the top of stores that already exist.
 
 ---
 
-Almost everything can now be ordered online but for many online shoppers it gets very time consuming to do it properly: searching back and forth between multiple web sites and offers, getting to know the best suppliers for the kind of products they need and making sure not to run out of supplies can be daunting. 
+Almost everything can now be ordered online but for many online shoppers it gets to be very time consuming to do it properly: searching back and forth between multiple web sites and offers, getting to know the best suppliers for the kind of products they need and making sure not to run out of supplies can be daunting.
 
-So I've decided to create a new online service that basically turns your browser into an advanced online shopping assistant. I want you harness the power that usually resides in giants like Amazon but give it to you in a way that is all under your control. No adware or spam. And you can train it according to your own lifestyle's rules and filters. Anytime you want you can modify or even delete all personal data and eliminate your digital footprint forever if you want to. I don't even want to know what is your name, sex or age... an email address is all you need to create an account. Nevertheless, if you want to improve your experience you can volunteer some details about what is that you are looking for. By doing that you'll bend the assistant to your needs. 
+So I've decided to create a new online service that basically turns your browser into an advanced online shopping assistant. I want you to harness the power that usually resides in giants like Amazon but give it to you in a way that it's all under your control. No adware or spam. And you can train it according to your own lifestyle's rules and filters. Anytime you want you can modify or even delete all personal data and eliminate your digital footprint forever if you want to. I don't even want to know what is your name, sex or age... an email address is all you need to create an account. Nevertheless, you'll want to improve your experience and volunteer some info about what is that you are looking for. By doing that you'll bend the assistant to your needs and not the other way around.
 
-The service will support you, exploring many options that are already available online but difficult to navigate and compare with each other:
+The service will support you, exploring many options that are already available online but difficult to navigate and compare with each other: prices, products, suppliers, orders history.
 
-* Prices
-* Products
-* Suppliers
-* Previous orders
+By using this information you can:
 
-Then you can act on this information to:
-
+* Bring it all together in realtime
+* Teach the system on preferences and filters 
+* Teach the system about which products are equivalents
 * Know when things are getting cheaper
-* Compare different options
+* Compare different prices
 * Learn about more about other suppliers
 * Predict recurring orders based on your history
 
