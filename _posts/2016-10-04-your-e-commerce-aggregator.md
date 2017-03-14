@@ -1,20 +1,20 @@
 ---
-datePublished: '2017-03-14T20:43:48.959Z'
+datePublished: '2017-03-14T21:01:52.765Z'
 sourcePath: _posts/2016-10-04-your-e-commerce-aggregator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-14T20:43:48.605Z'
+dateModified: '2017-03-14T21:01:52.082Z'
 title: Online Shopping Aggregator
 publisher: {}
 description: >-
   The making of Online Shopping Aggregator just started. It’s a platform that
   will target busy online shoppers that would like to waste less time
   discovering and ordering products online. I’ve broken down the process of
-  online shopping and found many optimizations that could be on any store
-  online. The Online Shopping Aggregator won’t change existing stores but it
-  will offer new features on the top of stores that already exist.
+  online shopping and found many optimizations that could be on any online
+  store. The Online Shopping Aggregator won’t change existing stores but it will
+  offer new features on the top of stores that already exist.
 starred: true
 datePublishedOriginal: '2016-10-05T20:11:36.407Z'
 url: your-e-commerce-aggregator/index.html
@@ -25,7 +25,7 @@ _type: Article
 
 # Online Shopping Aggregator
 
-The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that would like to waste less time discovering and ordering products online. I've broken down the process of online shopping and found many optimizations that could be on any store online. The Online Shopping Aggregator won't change existing stores but it will offer new features on the top of stores that already exist.
+The making of **Online Shopping Aggregator** just started. It's a platform that will target busy online shoppers that would like to waste less time discovering and ordering products online. I've broken down the process of online shopping and found many optimizations that could be on any online store. The Online Shopping Aggregator won't change existing stores but it will offer new features on the top of stores that already exist.
 
 ---
 
@@ -38,9 +38,9 @@ The service will support you, exploring many options that are already available 
 By using this approach you can also:
 
 * Bring it all together in realtime using a searching model that reacts immediately to changes in scope or criteria
-* Teach the system on preferences and filters 
+* Teach the system on preferences and filters
 * Teach the system about products that should be treated as equivalents
-* Know when relevant products just got cheaper or more expensive 
+* Know when relevant products just got cheaper or more expensive
 * Learn more about other suppliers or product alternatives
 * Predict recurring orders based on your history
 
