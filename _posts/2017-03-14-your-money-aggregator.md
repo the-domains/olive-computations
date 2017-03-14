@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://chrome.google.com/webstore/detail/your-money-aggregator/pkhbgealgppobjjkeahfgknimjonelkn?hl=en
 title: Your Money Aggregator
-datePublished: '2017-03-14T20:57:51.653Z'
-dateModified: '2017-03-14T20:57:51.209Z'
+datePublished: '2017-03-14T20:59:12.135Z'
+dateModified: '2017-03-14T20:59:11.486Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-14-your-money-aggregator.md
