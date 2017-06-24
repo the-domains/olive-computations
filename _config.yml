@@ -69,3 +69,5 @@ purpose:
   - type: email
     url: 'mailto:joao@nicolauoliveira.com'
     label: Contact me
+analytics:
+  google: UA-101596208-1
